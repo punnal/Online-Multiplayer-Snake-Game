@@ -1,0 +1,14 @@
+
+#Constants related to borders
+HEIGHT = 20
+WIDTH = 40
+MAX_Y = HEIGHT-2
+MAX_X = WIDTH-2
+
+#Timeout
+TIMEOUT = 300
+
+#Snake
+INIT_SNAKE_LENGHT = 8
+SNAKE_X = WIDTH/2
+SNAKE_Y = HEIGHT/2
